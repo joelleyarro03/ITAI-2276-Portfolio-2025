@@ -1,4 +1,4 @@
-# ITAI-2276-Portfolio-2026
+# ITAI-2276-Portfolio-2025
 ITAI 2276 — Portfolio on Applied Artificial Intelligence
 Prepared by: [Williane Yarro]
 Email: [joelleyarro@gmail.com]
